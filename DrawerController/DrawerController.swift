@@ -703,7 +703,7 @@ open class DrawerController: UIViewController, UIGestureRecognizerDelegate {
             sideDrawerViewControllerToPresent.view.isHidden = false
             self.resetDrawerVisualState(for: drawer)
             sideDrawerViewControllerToPresent.view.frame = sideDrawerViewControllerToPresent.evo_visibleDrawerFrame
-            self.updateDrawerVisualState(for: drawer, percentVisible: 0.0)
+            //self.updateDrawerVisualState(for: drawer, percentVisible: 0.0)
             sideDrawerViewControllerToPresent.beginAppearanceTransition(true, animated: animated)
         }
     }
