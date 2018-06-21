@@ -1,5 +1,11 @@
+***************
+WARNING: THIS PROJECT IS DEPRECATED
+====================================
+It will not receive any future updates or bug fixes. If you are using it, please migrate to another solution.
+***************
+
 # Drawer Controller
-[![Version Status](http://img.shields.io/cocoapods/v/DrawerController.png)](http://cocoadocs.org/docsets/DrawerController/1.0.3/) [![license MIT](http://img.shields.io/badge/license-MIT-orange.png)](http://opensource.org/licenses/MIT) [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+[![Version Status](http://img.shields.io/cocoapods/v/DrawerController.png)](http://cocoadocs.org/docsets/DrawerController/4.0.0/) [![license MIT](http://img.shields.io/badge/license-MIT-orange.png)](http://opensource.org/licenses/MIT) [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
 `DrawerController` is a swift version of the popular `MMDrawerController` by [Mutual Mobile](https://github.com/mutualmobile/MMDrawerController).
 
@@ -16,7 +22,7 @@ This is currently a work in progress and has not been thoroughly tested. Use at 
 platform :ios, '8.0'
 use_frameworks!
 
-pod 'DrawerController', '~> 3.1'
+pod 'DrawerController', '~> 4.0'
 ````
 
 #### [Carthage](https://github.com/Carthage/Carthage)
